@@ -126,7 +126,7 @@ const Banner: React.FC<{}> = () => {
             <div>Liên hệ🫸</div>
             <div
               className="border-1 p-3 rounded-xl bg-pink-300"
-              onClick={() => handleOpenModal("fb")}
+              onClick={() => window.open("https://www.facebook.com/Ha220201?mibextid=LQQJ4d")}
             >
               <div className="flex items-center gap-5">
                 <Image

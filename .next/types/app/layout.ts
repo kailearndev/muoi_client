@@ -1,4 +1,4 @@
-// File: D:\Project\Developer-Portfolio\app\layout.tsx
+// File: D:\Project\muoi_client\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
